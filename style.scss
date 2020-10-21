@@ -61,6 +61,7 @@ body {
         background-color: $color-white;
         border-radius: 2rem;
         z-index: -2;
+        box-shadow: 0 3rem 5rem -2rem rgba($color-very-dark-desaturated-blue, 0.6) ;
 
         @include s-lg {
             margin: 0;
